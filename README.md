@@ -1,2 +1,3 @@
-# sitemap_generator
-sitemap.xml PHP Generator
+# sitemap.xml PHP Class Generator
+
+PHP Class for dynamic generate sitemap.xml google comaptible file.
